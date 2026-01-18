@@ -4,7 +4,7 @@ Welcome! This is my GitHub profile README.
 ## Technologies I Work With
 JavaScript · TypeScript · React · Node.js · Tailwind CSS · Git · GitHub
 
-<img src="./coding.gif"  alt="avatar" />
+<img src="https://raw.githubusercontent.com/AimanKM7/AimanKM7/main/coding.gif"  alt="avatar" />
 
 ## Contact
 - Email: example@example.com
