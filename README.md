@@ -4,7 +4,7 @@ Welcome! This is my GitHub profile README.
 Here you'll find a short introduction, links, and small badges for projects and tools I use.
 
 ## About Me
-Web developer — Front-end and Back-end.  
+Web developer — Front-end.  
 
 
 
