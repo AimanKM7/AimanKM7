@@ -6,8 +6,6 @@ Here you'll find a short introduction, links, and small badges for projects and 
 ## About Me
 Web developer — Front-end.  
 
-
-
 ## Technologies I Work With
 JavaScript · TypeScript · React · Node.js · Tailwind CSS · Git · GitHub
 
@@ -18,4 +16,4 @@ JavaScript · TypeScript · React · Node.js · Tailwind CSS · Git · GitHub
 
 ---
 
-<img src="https://raw.githubusercontent.com/AimanKM7/my-repo/c86fd9e62263e255b12413e116d1e5669a575124/coding.gif" width="120" alt="avatar" />
+<img src="./coding.gif" width="120" alt="avatar" />
